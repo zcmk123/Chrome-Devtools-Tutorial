@@ -13,7 +13,9 @@ Element面板是我们在平时开发中最常见的一个面板
 
 3、快速展开多层嵌套DOM树
 * 鼠标操作：选中父节点，右键选择 Expand recursively
+
 ![快速展开DOM-鼠标操作](./imgs/expand-dom-1.png)
 
 * 键盘快捷键 Alt + 鼠标点击箭头
+
 ![快速展开DOM-快捷键](./imgs/expand-dom-2.gif)
