@@ -1,3 +1,4 @@
+(PS: 懒癌式随缘更新中)
 不专业、不全面的科普介绍Chrome Devtools
 
 分享一些自己在平时开发时对Chrome Devtools的一些使用技巧
